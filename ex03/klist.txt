@@ -1,0 +1,5 @@
+Credentials cache: API:57101
+        Principal: arouge@S19.BE
+
+  Issued                Expires               Principal
+Jul  1 13:35:46 2019  Jul  1 23:35:40 2019  krbtgt/S19.BE@S19.BE
